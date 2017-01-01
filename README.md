@@ -15,7 +15,7 @@ The third value in the `tone` method call within the for loop can be modified to
 16x Wires  
 7x 220ohm Resistors  
 6x LEDs  
-1x Active Speaker
+1x Active Speaker  
 1x Push Button
 
 ### Video in Action:
