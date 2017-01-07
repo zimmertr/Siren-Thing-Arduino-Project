@@ -9,6 +9,9 @@ The ceiling value in the for loop can be modified to make the siren achieve high
 
 The third value in the `tone` method call within the for loop can be modified to change the duration of each element of the siren as it climbs in pitch.
 
+### Video in Action:
+[Video](https://www.youtube.com/watch?v=bVqdUNxrrhM)
+
 ### Schematic:
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Siren-Thing-Arduino-Project/master/Schematic.jpg "Schematic")
 
@@ -20,6 +23,3 @@ The third value in the `tone` method call within the for loop can be modified to
 6x LEDs  
 1x Active Speaker  
 1x Push Button
-
-### Video in Action:
-[Video](https://www.youtube.com/watch?v=bVqdUNxrrhM)
