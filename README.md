@@ -16,6 +16,7 @@ The third value in the `tone` method call within the for loop can be modified to
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Siren-Thing-Arduino-Project/master/Schematic.jpg "Schematic")
 
 ### Requirements:
+```
 1x MEGA 2560  
 1x Breadboard  
 16x Wires  
@@ -23,3 +24,4 @@ The third value in the `tone` method call within the for loop can be modified to
 6x LEDs  
 1x Active Speaker  
 1x Push Button
+```
